@@ -1,13 +1,13 @@
 # Data Structures and Algorithms Project
 * Consists of seven mini projects
 ### Table of content
-* [Finding the Square Root of an Integer](#Problem-1)
-* [Search in a Rotated Sorted Array](#Problem-2)
-* [Rearrange Array Elements](#Problem-3)
-* [Dutch National Flag Problem](#Problem-4)
-* [Building a Trie in Python](#Problem-5)
-* [Max and Min in a Unsorted Array](#Problem-6)
-* [HTTPRouter using a Trie](#Problem-7)
+* [Finding the Square Root of an Integer](#problem-1---finding-the-square-root-of-an-integer)
+* [Search in a Rotated Sorted Array](#Problem-2---Search-in-a-Rotated-Sorted-Array)
+* [Rearrange Array Elements](##Problem-3---Rearrange-Array-Elements)
+* [Dutch National Flag Problem](##Problem-4---Dutch-National-Flag-Problem)
+* [Building a Trie in Python](#Problem-5---Building-a-Trie-in-Python)
+* [Max and Min in a Unsorted Array](#Problem-6---Max-and-Min-in-a-Unsorted-Array)
+* [HTTPRouter using a Trie](#Problem-7---HTTPRouter-using-a-Trie)
 
 #### Problem 1 - Finding the Square Root of an Integer
 * Find the square root of the integer without using any Python library. You have to find the floor value of the square root.
